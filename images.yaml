@@ -1,1 +1,3 @@
 nginx:stable-alpine-slim: registry.cn-beijing.aliyuncs.com/s-data/nginx
+containrrr/watchtower:latest: registry.cn-beijing.aliyuncs.com/s-data/containrrr/watchtower
+
